@@ -1,19 +1,16 @@
 cff-version: 1.2.0
 title: Demographic modelling in moments
-message: >-
-  If you use this dataset, please cite it using the
-  metadata from this file.
+message: "If you use this dataset, please cite it using the metadata from this file."
 type: dataset
 authors:
-  - given-names: Carolin
-    family-names: Dahms
+  - given-names: "Carolin"
+    family-names: "Dahms"
     orcid: 'https://orcid.org/0000-0002-3283-7820'
-    email: carolin.dahms.ac@gmail.com
+    email: "carolin.dahms.ac@gmail.com"
 identifiers:
   - type: url
-    value: 'https://github.com/carolindahms/moments'
-abstract: >-
-Scripts of demographic models to perform demographic analyses in moments.
+    value: "https://github.com/carolindahms/moments"
+abstract: "Scripts of demographic models to perform demographic analyses in moments."
 commit: e476f1329f979cb55e6437d73840c3ab289329e1
 keywords:
   - Demographic modelling
